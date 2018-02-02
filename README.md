@@ -1,2 +1,4 @@
 # hello-world1
-重新来一遍
+hello,everybody!
+I am a colleage student from Hohai university!
+I am very happy to be here for study.
